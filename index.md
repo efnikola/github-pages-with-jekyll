@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Knowledge refreshment course"
 ---
 
-I'm glad you are here. I plan to talk about ...
+- [x] github 
+- [ ] github pages
